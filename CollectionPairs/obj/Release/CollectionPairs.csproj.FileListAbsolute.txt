@@ -1,0 +1,4 @@
+C:\Users\Пётр\Desktop\Kasper\CollectionPairs\bin\Release\CollectionPairs.dll
+C:\Users\Пётр\Desktop\Kasper\CollectionPairs\bin\Release\CollectionPairs.pdb
+C:\Users\Пётр\Desktop\Kasper\CollectionPairs\obj\Release\CollectionPairs.dll
+C:\Users\Пётр\Desktop\Kasper\CollectionPairs\obj\Release\CollectionPairs.pdb

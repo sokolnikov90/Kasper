@@ -1,0 +1,15 @@
+c:\Users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\CollectionPairs\bin\Debug\CollectionPairs.pdb
+c:\Users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\CollectionPairs\obj\Debug\CollectionPairs.pdb
+c:\Users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\CollectionPairs\bin\Debug\CollectionPairs.exe
+c:\Users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\CollectionPairs\obj\Debug\CollectionPairs.exe
+c:\Users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\CollectionPairs\obj\Debug\CollectionPairs.csprojResolveAssemblyReference.cache
+C:\Users\Пётр\Desktop\ConcurrentQueue\Kasper\CollectionPairs\obj\Debug\CollectionPairs.exe
+C:\Users\Пётр\Desktop\ConcurrentQueue\Kasper\CollectionPairs\obj\Debug\CollectionPairs.pdb
+C:\Users\Пётр\Desktop\ConcurrentQueue\Kasper\CollectionPairs\bin\Debug\CollectionPairs.exe
+C:\Users\Пётр\Desktop\ConcurrentQueue\Kasper\CollectionPairs\bin\Debug\CollectionPairs.pdb
+C:\Users\Пётр\Desktop\ConcurrentQueue\Kasper\CollectionPairs\obj\Debug\CollectionPairs.csprojResolveAssemblyReference.cache
+C:\Users\Пётр\Desktop\Kasper\CollectionPairs\bin\Debug\CollectionPairs.dll
+C:\Users\Пётр\Desktop\Kasper\CollectionPairs\bin\Debug\CollectionPairs.pdb
+C:\Users\Пётр\Desktop\Kasper\CollectionPairs\obj\Debug\CollectionPairs.dll
+C:\Users\Пётр\Desktop\Kasper\CollectionPairs\obj\Debug\CollectionPairs.pdb
+C:\Users\Пётр\Desktop\Kasper\CollectionPairs\obj\Debug\CollectionPairs.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueue\bin\Release\ConcurrentQueue.dll
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueue\bin\Release\ConcurrentQueue.pdb
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueue\obj\Release\ConcurrentQueue.dll
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueue\obj\Release\ConcurrentQueue.pdb

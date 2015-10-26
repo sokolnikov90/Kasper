@@ -1,0 +1,27 @@
+c:\Users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\CollectionPairsUnitTests\bin\Debug\CollectionPairsUnitTests.dll
+c:\Users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\CollectionPairsUnitTests\bin\Debug\CollectionPairsUnitTests.pdb
+c:\Users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\CollectionPairsUnitTests\bin\Debug\CollectionPairs.dll
+c:\Users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\CollectionPairsUnitTests\bin\Debug\nunit.framework.dll
+c:\Users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\CollectionPairsUnitTests\bin\Debug\CollectionPairs.pdb
+c:\Users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\CollectionPairsUnitTests\bin\Debug\nunit.framework.xml
+c:\Users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\CollectionPairsUnitTests\obj\Debug\CollectionPairsUnitTests.csprojResolveAssemblyReference.cache
+c:\Users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\CollectionPairsUnitTests\obj\Debug\CollectionPairsUnitTests.dll
+c:\Users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\CollectionPairsUnitTests\obj\Debug\CollectionPairsUnitTests.pdb
+C:\Users\Пётр\Desktop\ConcurrentQueue\Kasper\CollectionPairsUnitTests\bin\Debug\CollectionPairsUnitTests.dll
+C:\Users\Пётр\Desktop\ConcurrentQueue\Kasper\CollectionPairsUnitTests\bin\Debug\CollectionPairsUnitTests.pdb
+C:\Users\Пётр\Desktop\ConcurrentQueue\Kasper\CollectionPairsUnitTests\bin\Debug\CollectionPairs.exe
+C:\Users\Пётр\Desktop\ConcurrentQueue\Kasper\CollectionPairsUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Пётр\Desktop\ConcurrentQueue\Kasper\CollectionPairsUnitTests\bin\Debug\CollectionPairs.pdb
+C:\Users\Пётр\Desktop\ConcurrentQueue\Kasper\CollectionPairsUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Пётр\Desktop\ConcurrentQueue\Kasper\CollectionPairsUnitTests\obj\Debug\CollectionPairsUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Пётр\Desktop\ConcurrentQueue\Kasper\CollectionPairsUnitTests\obj\Debug\CollectionPairsUnitTests.dll
+C:\Users\Пётр\Desktop\ConcurrentQueue\Kasper\CollectionPairsUnitTests\obj\Debug\CollectionPairsUnitTests.pdb
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\bin\Debug\CollectionPairsUnitTests.dll
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\bin\Debug\CollectionPairsUnitTests.pdb
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\bin\Debug\CollectionPairs.pdb
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\obj\Debug\CollectionPairsUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\obj\Debug\CollectionPairsUnitTests.dll
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\obj\Debug\CollectionPairsUnitTests.pdb
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\bin\Debug\CollectionPairs.dll

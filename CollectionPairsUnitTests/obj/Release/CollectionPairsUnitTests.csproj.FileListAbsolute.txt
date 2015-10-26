@@ -1,0 +1,9 @@
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\bin\Release\CollectionPairsUnitTests.dll
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\bin\Release\CollectionPairsUnitTests.pdb
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\bin\Release\CollectionPairs.dll
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\bin\Release\nunit.framework.dll
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\bin\Release\CollectionPairs.pdb
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\bin\Release\nunit.framework.xml
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\obj\Release\CollectionPairsUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\obj\Release\CollectionPairsUnitTests.dll
+C:\Users\Пётр\Desktop\Kasper\CollectionPairsUnitTests\obj\Release\CollectionPairsUnitTests.pdb

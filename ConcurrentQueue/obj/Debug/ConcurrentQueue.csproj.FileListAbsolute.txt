@@ -1,0 +1,10 @@
+c:\users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\ConcurrentQueue\bin\Debug\ConcurrentQueue.dll
+c:\users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\ConcurrentQueue\bin\Debug\ConcurrentQueue.pdb
+c:\users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\ConcurrentQueue\obj\Debug\ConcurrentQueue.csprojResolveAssemblyReference.cache
+c:\users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\ConcurrentQueue\obj\Debug\ConcurrentQueue.dll
+c:\users\sokolnikov.lanit\documents\visual studio 2012\Projects\ConcurrentQueue\ConcurrentQueue\obj\Debug\ConcurrentQueue.pdb
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueue\bin\Debug\ConcurrentQueue.dll
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueue\bin\Debug\ConcurrentQueue.pdb
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueue\obj\Debug\ConcurrentQueue.dll
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueue\obj\Debug\ConcurrentQueue.pdb
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueue\obj\Debug\ConcurrentQueue.csprojResolveAssemblyReference.cache

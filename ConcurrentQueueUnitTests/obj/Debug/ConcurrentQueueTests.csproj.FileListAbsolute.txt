@@ -1,0 +1,9 @@
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueueUnitTests\bin\Debug\ConcurrentQueueUnitTests.dll
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueueUnitTests\bin\Debug\ConcurrentQueueUnitTests.pdb
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueueUnitTests\bin\Debug\ConcurrentQueue.dll
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueueUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueueUnitTests\bin\Debug\ConcurrentQueue.pdb
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueueUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueueUnitTests\obj\Debug\ConcurrentQueueTests.csprojResolveAssemblyReference.cache
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueueUnitTests\obj\Debug\ConcurrentQueueUnitTests.dll
+C:\Users\Пётр\Desktop\Kasper\ConcurrentQueueUnitTests\obj\Debug\ConcurrentQueueUnitTests.pdb
